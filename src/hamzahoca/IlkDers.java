@@ -6,7 +6,8 @@ public class IlkDers {
 		System.out.println("Saat 17:50");
 		System.out.println("Saat 13:28");
 		System.out.println("Saat 12:28 uzak");
-
+		System.out.println("Saat 12:Bilgisayar");
+		System.out.println("Tekrar");
 	}
 
 }
