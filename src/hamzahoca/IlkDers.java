@@ -10,8 +10,12 @@ public class IlkDers {
 		System.out.println("Tekrar cakisma kontrol");
 		// 2:35 de kaldik 
 		
-		System.out.println("featur branc 1.satir");
-
+		
+      
+		
+		
+		
+		System.out.println("Featurden yeni eklenen");
 	}
 
 }
