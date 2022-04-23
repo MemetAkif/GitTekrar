@@ -9,18 +9,23 @@ public class IlkDers {
 		System.out.println("Saat 12:Bilgisayar");
 		System.out.println("Tekrar cakisma kontrol");
 
+
 		System.out.println("13:59 featur branch ekledim");
 			System.out.println("featur branc 1.satir");
 
 
 
-		
+
 		
       
 		
 		
-		
+
 		System.out.println("Featurden yeni eklenen");
+
+
+		System.out.println("Featurden yeni 2.  eklenen");
+		System.out.println("Featurden yeni 3.  eklenen");
 
 	}
 
