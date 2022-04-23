@@ -12,7 +12,7 @@ public class IlkDers {
 			System.out.println("featur branc 1.satir");
 		System.out.println("Featurden yeni 2.  eklenen");
 		System.out.println("Featurden yeni 3.  eklenen");
-
+		System.out.println("Masterde Degisikllik");
 	}
 
 }
