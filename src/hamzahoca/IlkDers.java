@@ -13,6 +13,7 @@ public class IlkDers {
 		System.out.println("Featurden yeni 2.  eklenen");
 		System.out.println("Featurden yeni 3.  eklenen");
 		System.out.println("Masterde Degisikllik");
+		System.out.println("faeturden gite eklenmeden onceki eklenen 1");
 	}
 
 }
