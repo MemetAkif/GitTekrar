@@ -9,6 +9,8 @@ public class IlkDers {
 		System.out.println("Saat 12:Bilgisayar");
 		System.out.println("Tekrar cakisma kontrol");
 		// 2:35 de kaldik 
+		
+		System.out.println("featur branc 1.satir");
 
 	}
 
