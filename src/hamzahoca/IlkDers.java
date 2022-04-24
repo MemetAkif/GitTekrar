@@ -14,6 +14,7 @@ public class IlkDers {
 		System.out.println("Featurden yeni 3.  eklenen");
 		System.out.println("Masterde Degisikllik");
 		System.out.println("faeturden gite eklenmeden onceki eklenen 1");
+		System.out.println("Gite yuklendikten sonra 1 ekleme");
 	}
 
 }
